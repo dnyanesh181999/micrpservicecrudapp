@@ -22,7 +22,7 @@ public class HomeController {
 		else {
 			return "Student saved sucessfully";
 		}
-		System.out.println("Pranav Deshmukh");
+		
 	}
 
 }
